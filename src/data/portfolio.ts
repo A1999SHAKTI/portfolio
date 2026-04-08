@@ -9,7 +9,7 @@ export const personalInfo = {
   summary:
     "Data Analytics graduate student at the National College of Ireland with 2+ years of hands-on experience as a Data Analyst. Proficient in Python, SQL, Power BI, Tableau, and Excel — skilled at building interactive dashboards, designing ETL workflows, and applying statistical modelling to drive data-driven business decisions.",
   social: {
-    github: "https://github.com/shaktisivaraman",
+    github: "https://github.com/A1999SHAKTI",
     linkedin: "https://linkedin.com/in/shaktisivaraman",
     email: "mailto:ashakti.sivaraman@gmail.com",
   },

@@ -1,6 +1,6 @@
 export const personalInfo = {
-  name: "Shakti",
-  lastName: "Sivaraman",
+  name: "Shakti Sivaraman",
+  lastName: "Annamalai",
   title: "Data Analyst",
   tagline: "Turning raw data into actionable insights & intelligent decisions",
   location: "Dublin, Ireland",

@@ -4,13 +4,13 @@ export const personalInfo = {
   title: "Data Analyst",
   tagline: "Turning raw data into actionable insights & intelligent decisions",
   location: "Dublin, Ireland",
-  email: "shakti.sivaraman@email.com",
+  email: "ashakti.sivaraman@gmail.com",
   phone: "",
   summary:
     "Data Analytics graduate student at the National College of Ireland with 2+ years of hands-on experience as a Data Analyst. Proficient in Python, SQL, Power BI, Tableau, and Excel — skilled at building interactive dashboards, designing ETL workflows, and applying statistical modelling to drive data-driven business decisions.",
   social: {
     github: "https://github.com/A1999SHAKTI",
-    linkedin: "https://linkedin.com/in/shaktisivaraman",
+    linkedin: "https://www.linkedin.com/in/shaktisivaraman?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     email: "mailto:ashakti.sivaraman@gmail.com",
   },
 };
